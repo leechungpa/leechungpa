@@ -73,9 +73,7 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 1. Documentary for Machine learning : https://leechungpa.github.io/machine_learning/
 
 
-***
 
 
----
 
 <img align="left" alt="leechungpa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leechungpa&show_icons=true&hide_border=true" />
