@@ -70,11 +70,11 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 1. Documentary
 
-    1. Documentary for Statistics and Data Science : https://leechungpa.github.io/statistics/
+    1. Statistics and Data Science : https://leechungpa.github.io/statistics/
     
-    1. Documentary for Machine learning : https://leechungpa.github.io/machine-learning/
+    1. Machine learning : https://leechungpa.github.io/machine-learning/
 
-    1. Documentary for Convex optimization : https://leechungpa.github.io/convex-optimization/
+    1. Convex optimization : https://leechungpa.github.io/convex-optimization/
 
 ---
 
