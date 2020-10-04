@@ -74,7 +74,7 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
     
     1. Machine learning : https://leechungpa.github.io/machine-learning/
 
-    1. Convex optimization : https://leechungpa.github.io/convex-optimization/
+<!--    1. Convex optimization : https://leechungpa.github.io/convex-optimization/   -->
 
 ---
 
