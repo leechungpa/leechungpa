@@ -62,13 +62,14 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 # webpages
 
+1. Blog for Books (Korean) : https://blog.naver.com/leechungpa
+
 1. Github.io page : https://leechungpa.github.io/
 
 1. Blog for Data Science (R-tidyverse) : https://leechungpa.netlify.app/
 
-1. Blog for Books (Korean) : https://blog.naver.com/leechungpa
 
-1. Documentary
+1. Docs
 
     1. Statistics and Data Science : https://leechungpa.github.io/statistics/
     
