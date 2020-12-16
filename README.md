@@ -33,7 +33,7 @@
 
 For more information about me, click [here](https://leechungpa.github.io/resume.html).
 
-## Languages and Tools:
+## Webpages and Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
 [<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />][rstudio]
@@ -59,8 +59,6 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 <br>
 
-
-# webpages
 
 1. Blog for Books (Korean) : https://blog.naver.com/leechungpa
 
