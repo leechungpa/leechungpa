@@ -64,9 +64,9 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 1. Github.io page : https://leechungpa.github.io/
 
-1. Blog for Data Science : https://leechungpa.netlify.app/
+1. Blog for Data Science (R-tidyverse) : https://leechungpa.netlify.app/
 
-1. Blog for Books : https://leechungpa.blog.me/
+1. Blog for Books (Korean) : https://blog.naver.com/leechungpa
 
 1. Documentary
 
@@ -74,7 +74,6 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
     
     1. Machine learning : https://leechungpa.github.io/machine-learning/
 
-<!--    1. Convex optimization : https://leechungpa.github.io/convex-optimization/   -->
 
 ---
 
