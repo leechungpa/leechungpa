@@ -33,6 +33,12 @@
 
 For more information about me, click [here](https://leechungpa.github.io/resume.html).
 
+
+<br>
+
+<br>
+
+
 ## Webpages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
@@ -56,6 +62,8 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
+
+<br>
 
 <br>
 
