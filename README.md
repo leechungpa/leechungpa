@@ -67,9 +67,6 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 <br>
 
-
-1. Blog for Books (Korean) : https://blog.naver.com/leechungpa
-
 1. Github.io page : https://leechungpa.github.io/
 
 1. Blog for Data Science (R-tidyverse) : https://leechungpa.netlify.app/
@@ -80,9 +77,3 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
     1. Statistics and Data Science : https://leechungpa.github.io/statistics/
     
     1. Machine learning : https://leechungpa.github.io/machine-learning/
-
-
----
-
-
-<img align="left" alt="leechungpa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leechungpa&show_icons=true&hide_border=true" />
