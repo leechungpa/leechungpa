@@ -1,34 +1,9 @@
 ### Hi there 👋
 
-<!--
-**leechungpa/leechungpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-
--->
-
-
 # About ME
 
 
-- 🔭 I’m currently studing on Yonsei.
-- 🌱 I’m currently learning Python, R(tidyverse), Statistics, ETC.
+- 🌱 I’m currently learning Statistics, Python, ETC.
 - 📫 How to reach me: leechungpa@gmail.com
 
 For more information about me, click [here](https://leechungpa.github.io/resume.html).
@@ -69,10 +44,9 @@ For more information about me, click [here](https://leechungpa.github.io/resume.
 
 1. Github.io page : https://leechungpa.github.io/
 
-1. Blog for Data Science (R-tidyverse) : https://leechungpa.netlify.app/
-
-
 1. Docs
+
+    1. Netlify Blog Test : https://leechungpa.netlify.app/
 
     1. Statistics and Data Science : https://leechungpa.github.io/statistics/
     
